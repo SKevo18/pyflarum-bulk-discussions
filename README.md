@@ -24,4 +24,4 @@ python -m bulk_discussions -f https://flarum.example.com -u admin -p cooladmin12
 By absolutely no means I support any malicious use of this script in order to create unwanted content/spam.
 I made this script as an option to solve a problem described in [this discussion](https://discuss.flarum.org/d/30722), and I am not responsible for any damage caused by this script. You are solely responsible for your own actions.
 
-If you feel that you are a victim of the inproper use of this tool, you can block the `pyflarum` user agent at the server where your Flarum instance is hosted on, which will effectively block all traffic made by this script.
+If you feel that you are a victim of the improper use of this tool, you can block the `pyflarum` user agent at the server where your Flarum instance is hosted on, which will effectively block all traffic made by this script.
