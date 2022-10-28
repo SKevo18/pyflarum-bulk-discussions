@@ -26,7 +26,4 @@ I made this script as an option to solve a problem described in [this discussion
 
 If you feel that you are a victim of the improper use of this tool, you can block the `pyflarum` user agent at the server where your Flarum instance is hosted on, which will effectively block all traffic made by this script.
 
-## 🎁 Support me
-
-I create free software to benefit people.
-If this project helps you and you like it, consider supporting me by donating via [PayPal](https://www.paypal.com/donate/?hosted_button_id=XDUWS5K6947HY).
+<a href="https://www.buymeacoffee.com/skevo"><img src="https://img.buymeacoffee.com/button-api/?text=Support me&emoji=🐣&slug=skevo&button_colour=ffa200&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
